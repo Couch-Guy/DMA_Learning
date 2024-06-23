@@ -6,7 +6,8 @@ I need to update the DMA_Simple.tcl script. Line 121 is set to my user should no
 I am very green to using tcl scripts so they may need some modification. 
 
 --Building Software--
-I like using: \
+
+I like using: 
 
 aarch64-linux-gnu-gcc -g -Wall file-name -o output-file.elf
 
