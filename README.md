@@ -1,4 +1,5 @@
 --Building Vivado Project--
+
 The FPGA project is in Vivado 2022.1
 To build the Vivado project run the build script.
 Some of the paths may need to be modified if Xilinx install locations differ.
