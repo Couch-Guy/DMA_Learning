@@ -7,7 +7,9 @@ I am very green to using tcl scripts so they may need some modification.
 
 --Building Software--
 I like using: 
+--_--
 aarch64-linux-gnu-gcc -g -Wall file-name -o output-file.elf
+--_--
 Then I scp the file over to petalinux and run the executable. This way I can modify the code without rebuilding petalinux.
 For how to get petalinux running on the KR260 I recommend this guide by Whitney Knitter:
 https://www.hackster.io/whitney-knitter/getting-started-with-the-kria-kr260-in-petalinux-2022-1-daec16?f=1
